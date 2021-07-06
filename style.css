@@ -33,3 +33,77 @@ a{
 }
 p{
 text-align:justify; 
+}
+.back-images {
+    color: black;
+    background-image: url(images/7.png);
+}
+.width-half {
+    width: 40%;
+    margin-left: 2%;
+    margin-right: 2%;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 5px;
+}
+.fastest {
+    
+    background-color:whitesmoke;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.fastest h1{
+    text-align: center;
+}
+.fastest p{
+    text-align: center;
+ }
+  .card-item{
+    width: 20%;
+    box-shadow: 2px 2px 20px gray;
+    display: inline-block;      
+    border-radius: 10px;
+    margin: 5%;
+    padding: 10px;
+  }   
+  .images img{
+      width: 100%;
+  }
+  .title h1 {
+      padding: 2px;
+  }   
+  .discription p{
+      text-align: justify;
+      padding: 5px;
+  }
+  .black{
+ color: black;
+ font-size: 30px;
+  }
+  .social-media{
+      
+      width: 30px;
+  }
+  footer {
+      background-color: rgba(3, 1, 15, 0.89);
+      text-align:center;
+      border: saddlebrown solid 2px;
+      line-height: 0.7px;
+      padding: 10px;
+      
+      
+  }
+  footer p{
+      text-align: center;
+      line-height: 0.2;
+      color: white;
+    
+  }
+ .counter{
+    margin-top: 80px;
+    display: flex;
+    width: 100%;
+    font-family: 'Encode Sans SC', sans-serif;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 4px 4px 4px 4px rgb(128 128 128 / 96%);
+ }
