@@ -98,12 +98,4 @@ text-align:justify;
       color: white;
     
   }
- .counter{
-    margin-top: 80px;
-    display: flex;
-    width: 100%;
-    font-family: 'Encode Sans SC', sans-serif;
-    border: 2px solid black;
-    border-radius: 10px;
-    box-shadow: 4px 4px 4px 4px rgb(128 128 128 / 96%);
- }
+ 
