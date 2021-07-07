@@ -83,6 +83,30 @@ text-align:justify;
       
       width: 30px;
   }
+  .contaier-flex{
+    width: 100%;
+    height: auto;
+    display: flex;
+    
+}
+.flex-box{
+    width: 40%;
+    height: 200px;
+    background-color:white;
+    text-align: center;
+    margin: 5px 5px 10px 10px;
+
+
+}
+.flex-box p{
+    text-align: center;
+    color: black;
+    
+}
+.flex-box h1 {
+    color: black;
+}
+  
   footer {
       background-color: rgba(3, 1, 15, 0.89);
       text-align:center;
